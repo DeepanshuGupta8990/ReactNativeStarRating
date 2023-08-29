@@ -1,4 +1,9 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+
+
+
+https://github.com/DeepanshuGupta8990/ReactNativeStarRating/assets/138364688/ee1d23e2-d101-4a27-86fb-f78623aa6539
+
+ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
 
